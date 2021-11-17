@@ -1,8 +1,6 @@
 ### Olá! eu sou o tiago696
 
-- 🔭 No momento sou estudante mas pretendo aprender front-end
-- 🌱 Estudando python
-- 😄 Pronouns: ele/dele
+- 🔭 No momento sou estudante mas pretendo aprender front-end - 🌱 Estudando python - 😄 Pronouns: ele/dele
 -->
 
 <div align="center">
