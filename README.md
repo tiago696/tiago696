@@ -1,7 +1,6 @@
 ### Olá! eu sou tiago696
 |-----------------------------------------------------------------------------------|
 🔭 No momento sou estudante mas pretendo aprender front-end - 🌱 Estudando python 
-
 |---------------------------------------------------------------------------------|
 
 <div align="center">
