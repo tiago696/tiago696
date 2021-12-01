@@ -1,4 +1,4 @@
-### Olá! eu sou tiago696
+### Olá! Me chamo Tiago!
 |-----------------------|
 🔭 No momento sou estudante mas pretendo aprender front-end - 🌱 Estudando python 
 |---------------------------------------------------------------------------------|
