@@ -1,7 +1,6 @@
 ### Olá! Me chamo Tiago!
 |-----------------------|
-🔭 No momento sou estudante e pretendo aprender front-end 
-🌱 Estudando python 
+🔭 No momento sou estudante e pretendo aprender front-end -🌱 Estudando python 
 |---------------------------------------------------------------------------------|
 
 <div align="center">
